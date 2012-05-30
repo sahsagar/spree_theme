@@ -193,8 +193,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 *:focus { outline: 0; }
 body {
   line-height: 1em;
-  color: black;
-  background: #000000;
+  color: blue;
+  background: #ffffff;
 }
 ol, ul { list-style: none; }
 table {
@@ -238,7 +238,7 @@ hr.space {
 body {
   line-height: 1.5;
   font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
-  color: #333333;
+  color: #000000;
   font-size: 75%;
 }
 h1 {
